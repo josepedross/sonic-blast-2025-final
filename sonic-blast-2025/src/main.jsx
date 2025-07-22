@@ -73,27 +73,7 @@ const concerts = [
     start: "00:00",
     end: "01:15",
   },
-  {
-    day: "Day 2",
-    artist: "CAPELA MORTUARIA",
-    stage: "Stage 3",
-    start: "14:35",
-    end: "15:15",
-  },
-  {
-    day: "Day 2",
-    artist: "HEAVY TRIP",
-    stage: "Stage 3",
-    start: "02:15",
-    end: "03:00",
-  },
-  {
-    day: "Day 2",
-    artist: "INHUMAN NAUTURE",
-    stage: "Stage 3",
-    start: "03:10",
-    end: "04:00",
-  },
+
   {
     day: "Day 2",
     artist: "BOW",
@@ -128,6 +108,27 @@ const concerts = [
     stage: "Main Stage 2",
     start: "01:20",
     end: "02:10",
+  },
+    {
+    day: "Day 2",
+    artist: "CAPELA MORTUARIA",
+    stage: "Stage 3",
+    start: "14:35",
+    end: "15:15",
+  },
+  {
+    day: "Day 2",
+    artist: "HEAVY TRIP",
+    stage: "Stage 3",
+    start: "02:15",
+    end: "03:00",
+  },
+  {
+    day: "Day 2",
+    artist: "INHUMAN NAUTURE",
+    stage: "Stage 3",
+    start: "03:10",
+    end: "04:00",
   },
   {
     day: "Day 3",
