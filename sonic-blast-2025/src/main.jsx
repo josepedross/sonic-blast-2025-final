@@ -14,8 +14,8 @@ const concerts = [
     day: "Day 1",
     artist: "The Legendary Tigerman",
     stage: "Echo Stage",
-    start: "18:00",
-    end: "19:00",
+    start: "23:00",
+    end: "00:15",
   },
   {
     day: "Day 2",
