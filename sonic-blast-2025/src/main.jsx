@@ -280,7 +280,7 @@ const concerts = [
  {
     day: "Day 4",
     artist: "VINNUM SABATHI",
-    stage: "Main Stage 2",
+    stage: "Stage 3",
     start: "03:25",
     end: "05:00",
   },
